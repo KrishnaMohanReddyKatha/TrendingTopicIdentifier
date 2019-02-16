@@ -1,0 +1,1 @@
+In this project, we processed and analysed the twitter streaming data using spark streaming framework and identified the trending topic. We used Elastic Search for storing the analysed data and Kibana for visualizing the analysed info
